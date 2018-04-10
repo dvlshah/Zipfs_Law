@@ -8,4 +8,6 @@ I have written an entire blog explaining the mysterious zipf's law and how it pr
 
 [Medium Link](https://medium.com/@devalshah1619/a-mysterious-law-so-simple-and-yet-so-universal-aa9f1c8903d1)
 
+You can also validate this law on any type of corpus you want. Use the python script wordCount.py for the visualizations.
+
 ## Please upvote and share if you find the article interesting.
